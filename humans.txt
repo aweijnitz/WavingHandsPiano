@@ -3,13 +3,16 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Anders Weijnitz -- DEV
 
 # THANKS
 
-    <name>
+    Anders Weijnitz
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    - [Tensorflow.js](https://www.tensorflow.org/js)
+    - [Howler.js](https://howlerjs.com/)
+    - [HTML5 Boilerplate](https://html5boilerplate.com/)
+    - [Skeleton CSS](http://getskeleton.com/)
+    - Good old [jQuery](https://jquery.com/)
