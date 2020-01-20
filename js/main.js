@@ -29,11 +29,9 @@ async function initModel() {
     labelContainer.appendChild(document.createElement("div"));
   }
   hideStartButton();
+  showInstructions();
 }
 
-function hideStartButton() {
-  $('#startButton').fadeOut();
-}
 
 function init() {
   $('#startButton').text('LOADING');
@@ -62,7 +60,7 @@ async function predict() {
   }
 
   let sorted = sortByKey(prediction, 'probability'); // highest probability will be the first in the array
-  if(sorted[0].probability > confidenceThreshold)
+  if (sorted[0].probability > confidenceThreshold)
     playNote(sorted[0].className);
 
   // finally draw the poses

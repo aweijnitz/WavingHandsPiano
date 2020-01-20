@@ -21,7 +21,7 @@ function loadSounds() {
 function playNote(note) {
 
   if (!sound.playing()) {
-    console.log('Playing: ', note);
+    //console.log('Playing: ', note);
     sound.play(note);
   }
 }

@@ -97,6 +97,23 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+.instructions {
+  font-size: small;
+  background-color: #d9d9d9;
+  padding-left: 0.8em;
+  padding-top: 0.3em;
+  padding-bottom: 0.1em;
+  display: none;
+}
+
+.instructions li {
+  margin-bottom: 0.1em;
+}
+
+.instructions ul {
+  margin-bottom: 0.1em;
+  padding-bottom: 0.1em;
+}
 
 /* ==========================================================================
    Helper classes
