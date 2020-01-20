@@ -9,7 +9,7 @@ This is s webpage which plays piano notes based on hand gestures by the user.
 It works like this:
 
 1. Capture a frame from the web camera.
-2. Estiamte the position of the user (hands, head, arms...) using the [PoseNet model](https://www.tensorflow.org/lite/models/pose_estimation/overview).
+2. Estimate the position of the user (hands, head, arms...) using the [PoseNet model](https://www.tensorflow.org/lite/models/pose_estimation/overview).
 3. Classify the pose as a note, by feeding the pose points from step 2 into a model trained to map gestures to musical notes in the C major scale (1 of 8 possibilities).
 4. Unless a note is already playing, play the note with the highest classified probability (that is also over 80% in likelihood)
 5. GOTO 1.
