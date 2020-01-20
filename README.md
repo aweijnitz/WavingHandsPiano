@@ -30,13 +30,28 @@ Left hand high(er) + four level of the right hand maps to G, A, B and finally th
 
 __These are samples from the training data for the gestures.__
 
+__Low C__
 ![Low C](https://github.com/aweijnitz/WavingHandsPiano/raw/master/demo-poses/c0.png "Low C")
+
+__D__
 ![D](https://github.com/aweijnitz/WavingHandsPiano/raw/master/demo-poses/d.png "D")
+
+__E__
 ![E](https://github.com/aweijnitz/WavingHandsPiano/raw/master/demo-poses/e.png "E")
+
+__F__
 ![F](https://github.com/aweijnitz/WavingHandsPiano/raw/master/demo-poses/f.png "F")
+
+__G__
 ![G](https://github.com/aweijnitz/WavingHandsPiano/raw/master/demo-poses/g.png "G")
+
+__A__
 ![A](https://github.com/aweijnitz/WavingHandsPiano/raw/master/demo-poses/a.png "A")
+
+__B__
 ![B](https://github.com/aweijnitz/WavingHandsPiano/raw/master/demo-poses/b.png "B")
+
+__High C__
 ![High C](https://github.com/aweijnitz/WavingHandsPiano/raw/master/demo-poses/c1.png "High C")
 
 
