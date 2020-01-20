@@ -97,6 +97,15 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+
+body {
+  font-size: 1rem;
+}
+
+h1 {
+  font-size: xx-large
+}
+
 .instructions {
   font-size: small;
   background-color: #d9d9d9;
@@ -113,6 +122,10 @@ textarea {
 .instructions ul {
   margin-bottom: 0.1em;
   padding-bottom: 0.1em;
+}
+
+#label-container {
+  margin-top: 2.5rem;
 }
 
 /* ==========================================================================
