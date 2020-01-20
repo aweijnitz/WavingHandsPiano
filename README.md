@@ -25,8 +25,8 @@ I am sharing it here, so that someone else might get inspired as well.
 
 There are four positions for the right hand, and two for the left hand. Together they let you map out an octave.
 
-Left hand low + four levels of the right hand maps to low C until F.
-Left hand high(er) + four level of the right hand maps to G, A, B and finally the high C, which completes the octave.
+Left hand low + four levels of the right hand map to low C until F.
+Left hand high(er) + four levels of the right hand map from G, A, B and finally the high C, which completes the octave.
 
 __These are samples from the training data for the gestures.__
 
