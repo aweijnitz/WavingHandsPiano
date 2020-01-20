@@ -23,9 +23,22 @@ I am sharing it here, so that someone else might get inspired as well.
 
 ## How do I know which gestures to use?
 
-You don't.
+There are four positions for the right hand, and two for the left hand. Together they let you map out an octave.
 
-<TODO: Upload screenshots showing key gestures>
+Left hand low + four levels of the right hand maps to low C until F.
+Left hand high(er) + four level of the right hand maps to G, A, B and finally the high C, which completes the octave.
+
+__These are samples from the training data for the gestures.__
+
+![Low C](https://github.com/aweijnitz/WavingHandsPiano/raw/master/demo-poses/c0.png "Low C")
+![D](https://github.com/aweijnitz/WavingHandsPiano/raw/master/demo-poses/d.png "D")
+![E](https://github.com/aweijnitz/WavingHandsPiano/raw/master/demo-poses/e.png "E")
+![F](https://github.com/aweijnitz/WavingHandsPiano/raw/master/demo-poses/f.png "F")
+![G](https://github.com/aweijnitz/WavingHandsPiano/raw/master/demo-poses/g.png "G")
+![A](https://github.com/aweijnitz/WavingHandsPiano/raw/master/demo-poses/a.png "A")
+![B](https://github.com/aweijnitz/WavingHandsPiano/raw/master/demo-poses/b.png "B")
+![High C](https://github.com/aweijnitz/WavingHandsPiano/raw/master/demo-poses/c1.png "High C")
+
 
 ## Key Technologies
 
